@@ -6,7 +6,6 @@ namespace LexiconCalculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git test");
             bool continueCalculating = true;
             double num1, num2;
             string selectedOption;
